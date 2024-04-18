@@ -4,3 +4,4 @@ manifest.txt
 *.csv
 .vscode/
 .idea/
+*.iml
